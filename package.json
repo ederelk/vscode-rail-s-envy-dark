@@ -1,0 +1,21 @@
+{
+  "name": "vscode-rails-envy-dark",
+  "displayName": "vscode-rails-envy-dark",
+  "description": "Inspired by Titanium Appcelerator rails envy theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rails Envy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rails Envy Dark-color-theme.json"
+      }
+    ]
+  }
+}
